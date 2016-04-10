@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "F:\Smart_House_Project\Project_Relay\EWARM\settings\Project_Relay.Project_Relay Configuration.general.xcl" --backend -f "F:\Smart_House_Project\Project_Relay\EWARM\settings\Project_Relay.Project_Relay Configuration.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "F:\Smart_House_Project\smart_house\Project_Relay\EWARM\settings\Project_Relay.Project_Relay Configuration.general.xcl" --backend -f "F:\Smart_House_Project\smart_house\Project_Relay\EWARM\settings\Project_Relay.Project_Relay Configuration.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "F:\Smart_House_Project\Project_Relay\EWARM\settings\Project_Relay.Project_Relay Configuration.general.xcl" "--debug_file=%~1" --backend -f "F:\Smart_House_Project\Project_Relay\EWARM\settings\Project_Relay.Project_Relay Configuration.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "F:\Smart_House_Project\smart_house\Project_Relay\EWARM\settings\Project_Relay.Project_Relay Configuration.general.xcl" "--debug_file=%~1" --backend -f "F:\Smart_House_Project\smart_house\Project_Relay\EWARM\settings\Project_Relay.Project_Relay Configuration.driver.xcl" 
 
 @echo off 
 :end

@@ -1,16 +1,16 @@
-"F:\Smart_House_Project\Project_Relay\Src\gpio.c"
+"F:\Smart_House_Project\smart_house\Project_Relay\Src\gpio.c"
 -std=c99
 -ferror-limit=100
 -I
-F:\Smart_House_Project\Project_Relay\EWARM/../Inc
+F:\Smart_House_Project\smart_house\Project_Relay\EWARM/../Inc
 -I
-F:\Smart_House_Project\Project_Relay\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc
+F:\Smart_House_Project\smart_house\Project_Relay\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc
 -I
-F:\Smart_House_Project\Project_Relay\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy
+F:\Smart_House_Project\smart_house\Project_Relay\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy
 -I
-F:\Smart_House_Project\Project_Relay\EWARM/../Drivers/CMSIS/Include
+F:\Smart_House_Project\smart_house\Project_Relay\EWARM/../Drivers/CMSIS/Include
 -I
-F:\Smart_House_Project\Project_Relay\EWARM/../Drivers/CMSIS/Device/ST/STM32F1xx/Include
+F:\Smart_House_Project\smart_house\Project_Relay\EWARM/../Drivers/CMSIS/Device/ST/STM32F1xx/Include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\CMSIS\Include
 -I
@@ -18,15 +18,15 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\inc\c
 -I
-F:\Smart_House_Project\Project_Relay\Inc
+F:\Smart_House_Project\smart_house\Project_Relay\Inc
 -I
-F:\Smart_House_Project\Project_Relay\Drivers\STM32F1xx_HAL_Driver\Inc
+F:\Smart_House_Project\smart_house\Project_Relay\Drivers\STM32F1xx_HAL_Driver\Inc
 -I
-F:\Smart_House_Project\Project_Relay\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy
+F:\Smart_House_Project\smart_house\Project_Relay\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy
 -I
-F:\Smart_House_Project\Project_Relay\Drivers\CMSIS\Include
+F:\Smart_House_Project\smart_house\Project_Relay\Drivers\CMSIS\Include
 -I
-F:\Smart_House_Project\Project_Relay\Drivers\CMSIS\Device\ST\STM32F1xx\Include
+F:\Smart_House_Project\smart_house\Project_Relay\Drivers\CMSIS\Device\ST\STM32F1xx\Include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\CMSIS\Include
 -DUSE_HAL_DRIVER=1

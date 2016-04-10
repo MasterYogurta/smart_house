@@ -3,7 +3,7 @@ stlinkserialNo=366958C9
 stlinkfoundProbes=
 CStepIntDis=_ 0
 [DebugChecksum]
-Checksum=-584938281
+Checksum=-721722147
 [Exceptions]
 StopOnUncaught=_ 0
 StopOnThrow=_ 0
@@ -41,7 +41,7 @@ ITMportsTermIO=0
 ITMportsLogFile=0
 ITMlogFile=$PROJ_DIR$\ITM.log
 [watch_formats]
-Fmt0={W}42:test_relay	1	0
+Fmt0={W}42:test_relay	4	0
 [Trace2]
 Enabled=0
 ShowSource=0

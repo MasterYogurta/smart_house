@@ -83,8 +83,8 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-//    RELAY_DirectSwitch(test_relay);
-    RELAY_Proc();
+    RELAY_DirectSwitch(test_relay);
+//    RELAY_Proc();
 
   /* USER CODE END WHILE */
 
