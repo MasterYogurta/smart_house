@@ -205,7 +205,7 @@ void OW_Massage(uint8_t flag)
 void OW_Output(void)
 {
   if (massage_buffer[1] == 0x10) {
-    printf(" | Sensor 1820: ");
+    printf("Sensor 1820: ");
     result_buffer = (float)temperature_buffer[0];
     printf("%.1lf\n", result_buffer/2);
     
